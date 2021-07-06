@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/bobswiftfoot/team-profile-generator#readme",
   "dependencies": {
+    "inquirer": "^8.1.1",
     "jest": "^27.0.6"
   }
 }
